@@ -100,7 +100,7 @@ export function Hero({ isDark }: HeroProps) {
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
             <motion.a
-              href="https://drive.google.com/file/d/1YyKFVX0HOUEgE3fI0k3uZZvmNKQ9oKfD/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bXNtXaLIYOcSRbdQYopyJD7ionIcrJaC/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
